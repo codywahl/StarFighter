@@ -1,0 +1,16 @@
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.exe.config
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.exe
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.pdb
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.Form1.resources
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.Properties.Resources.resources
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.csproj.GenerateResource.Cache
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.exe
+C:\Users\cwahl\Documents\Cody Wahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.pdb
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.exe.config
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.exe
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.pdb
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.exe
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\bin\Debug\StarFighter.pdb
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.StarFighter.resources
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.Properties.Resources.resources
+H:\CodyWahl\Sandboxes\StarFighter\StarFighter\obj\Debug\StarFighter.csproj.GenerateResource.Cache
